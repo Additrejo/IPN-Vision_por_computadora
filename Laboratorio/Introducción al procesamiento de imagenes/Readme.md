@@ -10,10 +10,9 @@ Programas realizados para la matería de visión por computadora en mi estancia 
 ## Índice
 
 [Software utilizado](#software-utilizado)  
-    [Librerías](#librerías)
+    [Librerías](#librerías)  
 [Introducción](#introducción)  
 [Programas](#programas)  
-[Operaciones Demostradas](#operaciones-demostradas)
 
 ---
 
