@@ -18,11 +18,30 @@ Programas realizados para la matería de visión por computadora en mi estancia 
 [Anaconda Navigator](https://anaconda.org/anaconda/anaconda-navigator) - GUI & Code editor.  
 [Spyder](https://www.spyder-ide.org/) - IDE Python.
 
+### Librerías
+
+Python 3.x  
+[Pandas](https://pandas.pydata.org/)
+```
+pip install pandas 
+```
+[OpenCV](https://opencv.org/)  
+```
+pip install opencv-python  
+```
+[NumPy](https://numpy.org/)  
+```
+pip install numpy
+```
+
+
 ---
 ## Contenido
  
 ### Prácticas de laboratorio - Procesamiento de imagenes
-[Prácticas de laboratorio - Procesamiento de imagenes](https://github.com/Additrejo/IPN-Vision_por_computadora/tree/main/Laboratorio/Introducci%C3%B3n%20al%20procesamiento%20de%20imagenes)
+[Prácticas de laboratorio - Procesamiento de imagenes](https://github.com/Additrejo/IPN-Vision_por_computadora/tree/main/Laboratorio/Introducci%C3%B3n%20al%20procesamiento%20de%20imagenes)  
+[Prácticas - Realce y Transformación de Imágenes](https://github.com/Additrejo/IPN-Vision_por_computadora/tree/main/Pr%C3%A1cticas%20-Realce%20y%20Transformaci%C3%B3n%20de%20Im%C3%A1genes)
+
 
 ---
 
